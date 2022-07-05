@@ -1,0 +1,8 @@
+PF {
+  device : "{}";
+  num_vfs : 1;
+}
+
+DEFAULT {
+  passthrough : true;
+}
